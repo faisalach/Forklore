@@ -23,33 +23,33 @@
    - Roles: 
    - Interests: 
    - Quote: ""
-   - [Portfolio](link)
-   - [LinkedIn](link)
-   - [GitHub](link)
+   - Portfolio : 
+   - LinkedIn : 
+   - Github : 
 
 2. **Muhammad Faisal Achramsyah**
    - Roles: Machine Learning Developer
    - Interests: Create model machine learning
    - Quote: “Error messages are the stepping stones to breakthroughs”
-   - [Portfolio](https://faisalach.github.io)
-   - [LinkedIn](https://www.linkedin.com/in/faisal-achramsyah-82b0b719b/)
-   - [GitHub](https://github.com/faisalach)
+   - Portfolio : [Link](https://faisalach.github.io)
+   - LinkedIn : [Link](https://www.linkedin.com/in/faisal-achramsyah-82b0b719b/)
+   - Github : [Link](https://github.com/faisalach)
 
 3. **Muhammad Gifa Algifari**
    - Roles: 
    - Interests: 
    - Quote: ""
-   - [Portfolio](link)
-   - [LinkedIn](link)
-   - [GitHub](link)
+   - Portfolio : 
+   - LinkedIn : 
+   - Github : 
      
 4. **Muhammad Zidan**
    - Roles: UI/UX Designer, Content Creative
    - Interests: Design UI/UX
    - Quote: "Life is showtime"
-   - [Portfolio](link)
-   - [LinkedIn](link)
-   - [GitHub](https://github.com/ziohtime)
+   - Portfolio : 
+   - LinkedIn : 
+   - Github : [Link](https://github.com/ziohtime)
 
 ### Topic and Motivation:
 Our project to recommend nutritious food that is good for health because of the large number of stunting cases in Indonesia. This project uses Content Based Filtering.

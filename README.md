@@ -1,6 +1,6 @@
 # Forklore
 
-![Forklore Logo](logo.png)
+<img src="logo.png" data-canonical-src="logo.png" width="200" />
 
 ## Project Proposal Summary
 
@@ -11,21 +11,22 @@
 - Muhammad Zidan
 
 ### UIN and IF Logo:
-![University Logo](uin_logo.png) ![Institute Logo](if_logo.png)
+<img src="uin_logo.png" data-canonical-src="uin_logo.png" width="200" />
+<img src="if_logo.png" data-canonical-src="if_logo.png" width="200" />
 
 ### Related SDGs Icons:
-![SDGs Icons](sdgs_icons.png)
+<img src="sdgs_logo.png" data-canonical-src="sdgs.png" width="200" />
 
 ### Introduction:
 
 ### Team Profiles:
 1. **Hisyam Arief Zulfani**
-   - Roles: 
-   - Interests: 
-   - Quote: ""
-   - Portfolio : 
-   - LinkedIn : 
-   - Github : 
+   - Roles: Writer/Researcher
+   - Interests: As a writer and researcher dedicated to machine learning, I have a deep interest in the development and application of innovative artificial intelligence technologies. My main focus is exploring ways in which machine learning can be used to solve complex challenges and improve efficiency in different sectors.
+   - Quote: "Teguh terhadap prinsip,setia terhadap proses"
+   - Portfolio : -
+   - LinkedIn : -
+   - Github : [Link](https//github.com/zoelfanisyam)
 
 2. **Muhammad Faisal Achramsyah**
    - Roles: Machine Learning Developer
@@ -36,19 +37,19 @@
    - Github : [Link](https://github.com/faisalach)
 
 3. **Muhammad Gifa Algifari**
-   - Roles: 
-   - Interests: 
-   - Quote: ""
-   - Portfolio : 
-   - LinkedIn : 
-   - Github : 
+   - Roles: Data Engineer
+   - Interests: As a data engineer, my job is to collect data from various sources, be it internal databases, external sources, APIs, or other tools. They also integrate fragmented data into one unified entity. I also collaborate with the team and continuously explore the latest innovations in this field.
+   - Quote: "be useful wherever you are"
+   - Portfolio : -
+   - LinkedIn : [Link](www.linkedin.com/in/muhammad-zidan-fauzi-1b38042a5)
+   - Github : [Link](https://github.com/gifaalgifari)
      
 4. **Muhammad Zidan**
    - Roles: UI/UX Designer, Content Creative
    - Interests: Design UI/UX
    - Quote: "Life is showtime"
-   - Portfolio : 
-   - LinkedIn : 
+   - Portfolio : -
+   - LinkedIn : [Link](www.linkedin.com/in/muhammad-zidan-fauzi-1b38042a5)
    - Github : [Link](https://github.com/ziohtime)
 
 ### Topic and Motivation:
@@ -85,6 +86,11 @@ The collaboration between Forklore and the halal certification program at UIN Ba
 3. [Exploring the Relationship Between COVID-19 Induced Economic Downturn and Women's Nutritional Health Disparities](https://doi.org/10.48550/arXiv.2311.12080)
 4. [Boosting Healthiness Exposure in Category-constrained Meal Recommendation Using Nutritional Standards](https://doi.org/10.1145/3643859)
 5. [Beyond Static Labels: Unpacking Nutrition Comprehension in the Digital Age](https://doi.org/10.1145/3613904.3642672)
+6. [Automatic Classification of High vs. Low Individual Nutrition Literacy Levels from Loyalty Card Data in Switzerland](https://doi.org/10.1145/3552484.3555744)
+7. [A Survey on Healthy Food Decision Influences Through Technological Innovations](https://doi.org/10.1145/3494580)
+8. [Understanding Challenges for Developers to Create Accurate Privacy Nutrition Labels](https://doi.org/10.1145/3491102.3502012)
+9. [Scale-Score: Food Label to Support Nutritious and Sustainable Online Grocery Shopping](https://doi.org/10.48550/arXiv.2309.03233)
+10. [Scale-Score: Investigation of a Meta yet Multi-level Label to Support Nutritious and Sustainable Food Choices When Online Grocery Shopping](https://doi.org/10.48550/arXiv.2309.04024)
 
 ### Additional Pages:
 Stay tuned for our short promotional video on Instagram! Follow our campaign [here](link).
@@ -92,7 +98,7 @@ Stay tuned for our short promotional video on Instagram! Follow our campaign [he
 ---
 
 * Repository URL: [Forklore GitHub Repository](https://github.com/faisalach/Forklore)
-* Proposal URL: [Forklore Proposal](link)
+* Proposal URL: [Forklore Proposal](https://drive.google.com/file/d/1oUmFejxfHONYwCmtVkW8rrUaGkgflbfE/view?usp=sharing)
 
 ---
 
